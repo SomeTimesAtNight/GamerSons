@@ -26,6 +26,12 @@ const games = [
       image: "https://static.pepper.pl/threads/raw/vc8Jw/856058_1/re/768x768/qt/60/856058_1.jpg"
     },
     {
+      title: "Relaxing Drift",
+      genre: ["simulation", "indi","fin"],
+      href: "Relaxing Drift.html",
+      image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980490/header.jpg?t=1755282048"
+    },
+    {
       title: "Loco Parentis / 孤女咒怨",
       genre: ["Horror", "rpg", "indi", "mmo", "at"],
       href: "Loco Parentis.html",
@@ -51,13 +57,13 @@ const games = [
     },
     {
       title: "Euro Truck Simulator 2",
-      genre: ["simulation", "indi"],
+      genre: ["simulation", "indi","fin"],
       href: "Euro Truck Simulator 2.html",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJ6-_swZbY86w-cfOZfTmWvO3ucwzM5sOJw&s"
     },
     {
       title: "Farming Simulator 17",
-      genre: ["simulation"],
+      genre: ["simulation","fin"],
       href: "Farming Simulator 17.html",
       image: "https://m.media-amazon.com/images/M/MV5BNmI0OGEyMGMtMTcyZi00ZTJiLTk3YWMtYTBkOTY2MzViOWZiXkEyXkFqcGc@._V1_.jpg"
     },
@@ -84,6 +90,12 @@ const games = [
       genre: ["adventure", "sports", "simulation"],
       href: "theHunter Call of the Wild.html",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjbsP4nePHhICpu6EBqLbVbZGOIniTgpFTNg&s"
+    },
+    {
+      title: "Curse of Darkness",
+      genre: ["Horror", "indi", "adventure", "at"],
+      href: "Curse of Darkness.html",
+      image: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3294220/82ede7305c88fe92745059692d67577787080111/capsule_616x353.jpg?t=1752865613"
     },
     {
       title: "Red Dead Redemption 2",
@@ -168,6 +180,12 @@ const games = [
       genre: ["sports", "fin"],
       href: "Forza Horizon 4.html",
       image: "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5f/Forza_Horizon_4_coverart.jpg/274px-Forza_Horizon_4_coverart.jpg"
+    },
+    {
+      title: "Shadows of the Past",
+      genre: ["Horror", "indi", "adventure"],
+      href: "Shadows of the Past.html",
+      image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3474400/cb41a4cb757ebf8ec6116d6304a005a15ca55258/library_600x900.jpg?t=1752323060"
     },
     {
       title: "Don't Starve",
